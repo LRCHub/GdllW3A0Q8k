@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "HULA HOOP",
+  "base_artist": "LOOΠΔ",
+  "createdAt": "2025-12-28T04:47:50.623581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hula Hoop 8000",
+      "artist": "Monarchy",
+      "has_synced": false,
+      "path": "select/01_Hula_Hoop_8000_Monarchy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hula Hoop",
+      "artist": "Omi",
+      "has_synced": true,
+      "path": "select/02_Hula_Hoop_Omi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hula Hoop",
+      "artist": "OMI",
+      "has_synced": false,
+      "path": "select/03_Hula_Hoop_OMI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hula Hoop",
+      "artist": "Daddy Yankee",
+      "has_synced": true,
+      "path": "select/04_Hula_Hoop_Daddy_Yankee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HULA HOOP",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/05_HULA_HOOP_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HULA HOOP - City Pop Ver.",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/06_HULA_HOOP_-_City_Pop_Ver._LOONA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hula Hoop (City Pop Version)",
+      "artist": "LOOΠΔ",
+      "has_synced": true,
+      "path": "select/07_Hula_Hoop_(City_Pop_Version)_LOOΠΔ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hula Hoop",
+      "artist": "Omi",
+      "has_synced": true,
+      "path": "select/08_Hula_Hoop_Omi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Hula Hoop Song",
+      "artist": "Georgia Gibbs",
+      "has_synced": true,
+      "path": "select/09_The_Hula_Hoop_Song_Georgia_Gibbs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hula Hoop",
+      "artist": "Omi",
+      "has_synced": true,
+      "path": "select/10_Hula_Hoop_Omi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hula Hoop (City Pop Ver.)",
+      "artist": "LOOΠΔ",
+      "has_synced": true,
+      "path": "select/11_Hula_Hoop_(City_Pop_Ver.)_LOOΠΔ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hula Hoop (City Pop Ver.)",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/12_Hula_Hoop_(City_Pop_Ver.)_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hula Hoop - City Pop Version",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/13_Hula_Hoop_-_City_Pop_Version_LOONA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HULA HOOP",
+      "artist": "LOONA",
+      "has_synced": false,
+      "path": "select/pl_01_HULA_HOOP_LOONA.txt"
+    }
+  ]
+}
