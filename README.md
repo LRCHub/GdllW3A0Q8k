@@ -1,0 +1,123 @@
+# LOOΠΔ – HULA HOOP
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+Dance ‘round me like a
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+果実を頬張り
+ほんの通りすがり
+世界は始まり
+Out alright
+Hit it, tell me shout it out
+出現(あらわ)れ消滅(きえ)る
+目眩くGarden
+I’ve never felt this before
+It’s cuz of you, you beautiful
+You got me like uh lala
+I want you like uh na na
+Yeah stay with me
+forever now what you say?
+I can give
+約束のカタチ
+いつだって繋がってるじゃない
+Cuz I’m feeling
+this thing is right
+DANCE
+Turn around and round and round
+飛び回る箒星 瞳はアンドロメダ
+Like a hula hula hula hula hoop
+STAND
+Spin the 自己中心愛
+Come on now
+Spin it ‘round
+Spin it right ‘round
+I can make you
+dance around me
+like a hula hoop
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+Dance ‘round me like a
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+You ガラクタ光る
+Galaxy に Bye
+最良(いい)でしょう？
+最良(いい)でしょう？
+最良(いい)でしょう？
+The fire in your heart
+扉に次ぐトビラ I open up
+何てサブリミナル
+don’t make me stop
+宇宙（そら）の
+向こうの向こう
+Hey you gonna make me
+pop pop pop pop pop
+You got me like uh lala
+I want you like uh na na
+Yeah stay with me
+forever now what you say?
+I can give
+聞き慣れた神話(はなし)
+過去も 未来だって 今 現在
+Cuz I’m feeling
+this thing is right
+DANCE
+Turn around and round and round
+飛び回る箒星 瞳はアンドロメダ
+Like a hula hula hula hula hoop
+STAND
+Spin the 自己中心愛
+Come on now
+Spin it ‘round
+Spin it right ‘round
+I can make you
+dance around me
+like a hula hoop
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+Dance ‘round me like a
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+We going ‘round ‘round
+無限の渦は
+止まることはないんだという
+完璧じゃない欲しいのは可能性
+Feels so right
+You and I
+DANCE
+Turn around and round and round
+飛び回る箒星 瞳はアンドロメダ
+Like a hula hula hula hula hoop
+STAND
+Spin the 自己中心愛
+Come on now
+Spin it ‘round
+Spin it right ‘round
+I can make you dance around
+me like a hula hoop
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+Dance ‘round me like a
+Hulalala Hulalala
+Hulala hula hoop
+Hulalala Hulala
+hula hula hoop
+```
